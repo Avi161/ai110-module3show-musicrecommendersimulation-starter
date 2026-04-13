@@ -9,3 +9,15 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Broken Satellites,Voltline,rock,intense,0.95,160,0.33,0.70,0.07
+12,Iron Sky,Cavern Sound,rock,intense,0.88,148,0.29,0.63,0.12
+13,Last Train Out,Slow Stereo,rock,chill,0.50,95,0.64,0.57,0.60
+14,Blue Monday Feels,Neon Echo,pop,sad,0.72,108,0.28,0.65,0.20
+15,Empty Rooms,Paper Lanterns,pop,sad,0.55,100,0.22,0.50,0.45
+16,Alone in Neon,Indigo Parade,synthwave,sad,0.78,115,0.30,0.68,0.15
+17,Rainday Jazz,Slow Stereo,jazz,chill,0.31,85,0.68,0.49,0.91
+18,Afterglow Drift,Orbit Bloom,ambient,relaxed,0.21,55,0.72,0.35,0.95
+19,Static Dream,Cavern Sound,lofi,intense,0.61,88,0.44,0.65,0.55
+20,Voltage Rush,Max Pulse,rock,intense,0.97,165,0.40,0.72,0.04
+21,Petal Drop,Paper Lanterns,indie pop,chill,0.33,70,0.75,0.52,0.82
+22,Golden Haze,Neon Echo,pop,happy,0.79,120,0.88,0.84,0.22
